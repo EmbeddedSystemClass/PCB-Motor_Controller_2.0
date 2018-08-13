@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Motor_Controller_v2_1b.PcbDoc   2018-02-18  5:35:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Motor_Controller_v2_1b.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             165       PTH        37.56inch (954.03mm)
+T2      32mil (0.81mm)                                            Round             48        PTH        7.89inch (200.29mm)
+T3      35mil (0.899mm)                                           Round             12        PTH        2.91inch (73.91mm)
+T4      40mil (1.016mm)                                           Round             12        PTH        1.79inch (45.41mm)
+T5      49mil (1.24mm)                                            Round             4         PTH        0.41inch (10.50mm)
+T6      51mil (1.3mm)                                             Round             8         PTH        2.18inch (55.32mm)
+T7      59mil (1.501mm)                                           Round             16        PTH        3.49inch (88.59mm)
+T8      118mil (3mm)                                              Round             6         PTH        13.77inch (349.75mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              271
+
+Total Processing Time (hh:mm:ss) : 00:00:00

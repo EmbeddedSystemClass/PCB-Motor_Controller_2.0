@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=Battery-Shunted New Net Name=Vin_M1_P
+Change Net Name : Old Net Name=NetJ2_M1_1 New Net Name=Vin_M1_N
+Change Net Name : Old Net Name=NetJ2_M2_1 New Net Name=Vin_M2_N
+Change Net Name : Old Net Name=NetJ2_M3_1 New Net Name=Vin_M3_N
+Change Net Name : Old Net Name=NetJ2_M4_1 New Net Name=Vin_M4_N
+Change Net Name : Old Net Name=NetJ2_M5_1 New Net Name=Vin_M5_N
+Change Net Name : Old Net Name=NetJ2_M6_1 New Net Name=Vin_M6_N
+Change Net Name : Old Net Name=NetJ2_M7_1 New Net Name=Vin_M7_N
+Change Net Name : Old Net Name=NetJ2_M8_1 New Net Name=Vin_M8_N
+Added Differential Pair: Name=Vin_M1

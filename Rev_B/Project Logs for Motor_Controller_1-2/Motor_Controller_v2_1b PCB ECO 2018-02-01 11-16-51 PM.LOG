@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=NetD7_2 Pin=D7-2
+Removed Member From Class: ClassName=Micro Member=D7
+Change Component Comment : Designator=D4 Old Comment=Red New Comment=Green
+Change component parameters: Designator = "D4"; Footprint = "LED0805"; UniqueID = "\IMNXVNBN\FRCLMTRU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "475-1410-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Ashwin Sira"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4982-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD7_2 Pin=D5-2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD5_2
+Added Member To Class: ClassName=Micro Member=Component D5 Blue

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SWDIO Pin=Y1-72
+Added Pin To Net: NetName=SWCLK Pin=Y1-76
+Added Member To Class: ClassName=I2C_Sensors Member=Component R9 10k

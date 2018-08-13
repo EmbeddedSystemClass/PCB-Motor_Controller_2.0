@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=Config-1 Pin=CN2-1
+Removed Pin From Net: NetName=Config-2 Pin=CN2-2
+Removed Pin From Net: NetName=Config-3 Pin=CN2-3
+Removed Pin From Net: NetName=3V3 Pin=CN2-5
+Removed Pin From Net: NetName=3V3 Pin=CN2-6
+Change Component Footprint: Designator=CN2 Old Footprint=HEADER, MALE, 2X3, PITCH: 0.1" (2.54MM),THT New Footprint=Header, Male, 2x4, Pitch: 0.1" (2.54mm),THT
+Change Component Comment : Designator=CN2 Old Comment=Header, Male, 2x3, Pitch: 0.1" (2.54mm), THT New Comment=Header, Male, 2x4, Pitch: 0.1" (2.54mm), THT
+Added Component: Designator=R31(RESC1608N(0603"))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created On"; Value = "14-05-31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Edited"; Value = "14-05-31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Made By"; Value = "Ashwin Sira"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owned By"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=CN2-1
+Added Pin To Net: NetName=3V3 Pin=CN2-2
+Added Pin To Net: NetName=3V3 Pin=CN2-3
+Added Pin To Net: NetName=Config-1 Pin=CN2-5
+Added Pin To Net: NetName=Config-2 Pin=CN2-6
+Added Pin To Net: NetName=Config-3 Pin=CN2-7
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=Config-4 Pin=CN2-8
+Added Pin To Net: NetName=Config-4 Pin=R31-2
+Added Net: Name=Config-4
+Added Member To Class: ClassName=Micro Member=Component R31 10k

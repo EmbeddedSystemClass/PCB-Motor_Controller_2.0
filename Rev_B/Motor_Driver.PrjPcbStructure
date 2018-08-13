@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=master.SchDoc
+Record=SheetSymbol|SourceDocument=master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=filter.SchDoc|SymbolType=Normal|RawFileName=filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=micro.SchDoc|SymbolType=Normal|RawFileName=micro.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

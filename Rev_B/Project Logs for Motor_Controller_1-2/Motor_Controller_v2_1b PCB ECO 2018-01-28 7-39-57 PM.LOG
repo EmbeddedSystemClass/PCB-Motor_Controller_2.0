@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Temp_Multpexer_Ctrl3 Pin=Y1-81
+Removed Pin From Net: NetName=Temp_Multpexer_Ctrl2 Pin=Y1-82
+Removed Pin From Net: NetName=Temp_Multpexer_Ctrl1 Pin=Y1-83
+Added Pin To Net: NetName=Temp_Multpexer_Ctrl3 Pin=Y1-54
+Added Pin To Net: NetName=Temp_Multpexer_Ctrl2 Pin=Y1-55
+Added Pin To Net: NetName=Temp_Multpexer_Ctrl1 Pin=Y1-56
