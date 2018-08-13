@@ -1,9 +1,0 @@
-Change component parameters: Designator = "D7"; Footprint = "LED0805"; UniqueID = "\IMNXVNBN\UAIWEWIA"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Colour"; Value = "Red"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Created By"; Value = "Ashwin Sira"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4984-1-ND"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=D7-1
-Added Pin To Net: NetName=NetD7_A Pin=D7-2
-Change Net Name : Old Net Name=NetD7_A New Net Name=NetD7_2

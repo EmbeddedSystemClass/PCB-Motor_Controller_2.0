@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=RX Pin=U8-2
-Added Pin To Net: NetName=TX Pin=U8-3
-Added Pin To Net: NetName=RX Pin=Y1-92
-Added Pin To Net: NetName=TX Pin=Y1-93
-Change Net Name : Old Net Name=RX New Net Name=NetJP3_1
-Change Net Name : Old Net Name=TX New Net Name=NetJP3_2

@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=Motor_Curr_ADC2 Pin=U11-13
-Removed Pin From Net: NetName=Therm_ADC6 Pin=U12-2
-Added Pin To Net: NetName=Motor_Curr_ADC2 Pin=U12-2

@@ -1,2 +1,0 @@
-Added Pin To Net: NetName=Therm_ADC5 Pin=U11-15
-Added Member To Class: ClassName=ADC_Sensors Member=Component U12 8:1 ADC Multiplexer

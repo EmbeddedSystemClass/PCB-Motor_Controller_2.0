@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=Motor_Curr_Multpexer_Ctrl3 Pin=Y1-78
-Removed Pin From Net: NetName=Motor_Curr_Multpexer_Ctrl2 Pin=Y1-79
-Removed Pin From Net: NetName=Motor_Curr_Multpexer_Ctrl1 Pin=Y1-80
-Added Pin To Net: NetName=Motor_Curr_Multpexer_Ctrl3 Pin=Y1-64
-Added Pin To Net: NetName=Motor_Curr_Multpexer_Ctrl2 Pin=Y1-65
-Added Pin To Net: NetName=Motor_Curr_Multpexer_Ctrl1 Pin=Y1-66

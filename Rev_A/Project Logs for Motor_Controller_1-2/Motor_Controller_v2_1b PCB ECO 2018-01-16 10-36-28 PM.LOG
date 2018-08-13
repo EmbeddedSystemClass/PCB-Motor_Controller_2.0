@@ -1,7 +1,0 @@
-Change Component Footprint: Designator=CN1 Old Footprint=Header, Male, 1X6 New Footprint=1x6, Female Header, Pads Pitch: 0.1" (2.54mm),SMT
-Change Component Comment : Designator=CN1 Old Comment=Header Male 1x6 New Comment=Header Female 1x6
-Change component parameters: Designator = "CN1"; Footprint = "1x6, Female Header, Pads Pitch: 0.1" (2.54mm),SMT"; UniqueID = "\IMNXVNBN\EXNETGYH"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Made Bates"; Value = "Andy Bates"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "952-3199-1-ND"; VariantName = "[No Variations]"
