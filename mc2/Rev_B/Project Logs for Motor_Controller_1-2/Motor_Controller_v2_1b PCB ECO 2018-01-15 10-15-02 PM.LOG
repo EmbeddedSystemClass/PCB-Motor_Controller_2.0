@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3 Pin=R8-1
+Removed Pin From Net: NetName=SDA Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=R9-1
+Removed Pin From Net: NetName=SCL Pin=R9-2
+Removed Member From Class: ClassName=I2C_Sensors Member=R9
+Change Component Comment : Designator=R8 Old Comment=3.32k New Comment=10k
+Change component parameters: Designator = "R8"; Footprint = "RESC1608N(0603")"; UniqueID = "\OTPHMOGI\POBWPMCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created On"; Value = "14-05-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Edited"; Value = "14-05-31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Made By"; Value = "Ashwin Sira"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Owned By"; Value = "AUVic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-10.0KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2

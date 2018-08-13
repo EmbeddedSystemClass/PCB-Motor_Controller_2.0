@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=D?_M1 NewDesignator=D1_M1
+Change Component Designator: OldDesignator=D?_M2 NewDesignator=D1_M2
+Change Component Designator: OldDesignator=D?_M3 NewDesignator=D1_M3
+Change Component Designator: OldDesignator=D?_M4 NewDesignator=D1_M4
+Change Component Designator: OldDesignator=D?_M5 NewDesignator=D1_M5
+Change Component Designator: OldDesignator=D?_M6 NewDesignator=D1_M6
+Change Component Designator: OldDesignator=D?_M7 NewDesignator=D1_M7
+Change Component Designator: OldDesignator=D?_M8 NewDesignator=D1_M8
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=U? NewDesignator=U13
+Change Component Designator: OldDesignator=U? NewDesignator=U14
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU13_1
+Added Pin To Net: NetName=NetU14_1 Pin=U14-1
+Added Pin To Net: NetName=NetU14_1 Pin=U14-4
+Added Pin To Net: NetName=NetU14_1 Pin=Y1-18
+Added Net: Name=NetU14_1
+Added Member To Class: ClassName=ADC_Sensors Member=Component U13 Op amp 1.8-6V rail-to-rail (SOT23-5)

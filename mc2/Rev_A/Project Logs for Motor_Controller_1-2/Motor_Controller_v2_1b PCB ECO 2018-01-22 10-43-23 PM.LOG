@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC16_2 Pin=SW1-2
+Change Component Footprint: Designator=SW1 Old Footprint=4-SPST-NO New Footprint=4-SPST-THT-1825910-7
+Change component parameters: Designator = "SW1"; Footprint = "4-SPST-THT-1825910-7"; UniqueID = "\IMNXVNBN\XWNJNBGG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Button Type"; Value = "Single Pole Single Throw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Made By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "450-1804-ND"; VariantName = "[No Variations]"

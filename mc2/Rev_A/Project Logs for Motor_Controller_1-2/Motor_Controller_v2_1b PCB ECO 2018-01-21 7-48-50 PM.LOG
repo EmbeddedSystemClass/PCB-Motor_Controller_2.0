@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Therm_ADC1 Pin=U12-12
+Removed Pin From Net: NetName=Therm_ADC4 Pin=U12-15
+Added Pin To Net: NetName=Therm_ADC4 Pin=U12-12
+Added Pin To Net: NetName=Therm_ADC1 Pin=U12-15
+Added Room: Name=ADC_Sensors
+Added Room: Name=I2C_Sensors
+Added Room: Name=Interface
+Added Room: Name=M1
+Added Room: Name=M2
+Added Room: Name=M3
+Added Room: Name=M4
+Added Room: Name=M5
+Added Room: Name=M6
+Added Room: Name=M7
+Added Room: Name=M8
+Added Room: Name=Micro
+Added Room: Name=Power

@@ -1,0 +1,16 @@
+Change Component Comment : Designator=R7 Old Comment=100k New Comment=200k
+Change component parameters: Designator = "R7"; Footprint = "RESC1608N(0603")"; UniqueID = "\BKHIJRWV\DCJXDNBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created On"; Value = "14-07-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Made By"; Value = "Ashwin Sira"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Owned By"; Value = "AUVic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-200KHCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=3V3 Pin=C27-1
+Added Pin To Net: NetName=3V3 Pin=C28-1
+Added Pin To Net: NetName=3V3 Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=U2-7

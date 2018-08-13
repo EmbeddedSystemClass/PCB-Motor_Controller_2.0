@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Therm_ADC8 Pin=U11-12
+Added Pin To Net: NetName=Therm_ADC7 Pin=U11-13
+Added Pin To Net: NetName=Therm_ADC6 Pin=U11-14
